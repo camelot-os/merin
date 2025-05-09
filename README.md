@@ -1,6 +1,8 @@
 # Merlin driver framework for Camelot user drivers
 
-## Basics
+<img src="merlin.jpg" width="200">
+
+## Basics
 
 Merlin is a driver framework to unify as much as possible the common actions and tooling requires for all drivers.
 
